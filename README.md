@@ -35,5 +35,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/VastraHUB.git
+   git clone https://github.com/sanu0711/VastraHUB.git
    cd VastraHUB
